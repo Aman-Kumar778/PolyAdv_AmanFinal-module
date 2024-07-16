@@ -1,7 +1,8 @@
 
-# MODULE 3 PROJECT
+# MODULE 3 PolyAddvance
 
-This program is a Module 3 Project program that demonstrates the basic syntax of the Circom programming language and Typescript. It is a hardhat-circom Project to generate zero-knowledge circuits, proofs, and solidity verifiers
+This program serves as a Module 3 Project, showcasing the fundamental syntax of the Circom programming language and TypeScript. It is a hardhat-circom project designed to generate zero-knowledge circuits, proofs, and Solidity verifiers.
+
 
 ## Description
 
@@ -209,6 +210,6 @@ npx hardhat newcircuit --name newcircuit
 
 ## Author
 
-GAURAV GARG
+Aman Kumar
 STUDENT
-CHANDIGARH UNIVERSITY
+
